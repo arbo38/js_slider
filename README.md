@@ -6,6 +6,10 @@
 
 	This slider will be improve by future development.
 
+## Documentation
+
+	... Coming Soon :) ...
+
 ## Future development
 
 	- Implementation of a javascript ES5 for IE compatibility.
